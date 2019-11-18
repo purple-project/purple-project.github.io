@@ -1,4 +1,4 @@
-{
-  app: 'moment',
+[{
+  app: "moment",
   version: 4
- }
+}]
